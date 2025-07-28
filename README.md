@@ -20,7 +20,7 @@ void loop(){
 
 ```
 upload_protocol = espota
-upload_port     = 192.168.7.133       
+upload_port     = 192.168.x.x       
 upload_flags    =
    --auth= admin
 ```
